@@ -1,5 +1,5 @@
 # second-Repo
-Thsi is the descripition
+This is the descripition
 <br>
 Author-Tayyab Ansari
 
